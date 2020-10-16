@@ -1,0 +1,21 @@
+{
+  "availability": "MARKET",
+  "contextPath": "myapplication",
+  "key": "myapplication-appkey",
+  "name": "myapplication",
+  "resourcesUrl": "/",
+  "type": "HOSTED",
+  "imports": [
+    "myapplication/myBranding",
+    "core/deviceList",
+    "core/groupsHierarchy",
+    "core/deviceDetail",
+    "myapplication/myplugin",
+    "myapplication/deviceContact",
+    "myapplication/deviceEventsRealTime",
+    "myapplication/weatherService",
+    "myapplication/weather",
+    "myapplication/weatherAdmin",
+    "myapplication/iconmap"
+  ]
+}
